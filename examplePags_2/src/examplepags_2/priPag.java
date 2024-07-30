@@ -130,7 +130,7 @@ public class priPag extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
-        dispose();
+        System.exit(0);
     }//GEN-LAST:event_jButton4ActionPerformed
 
     /**
